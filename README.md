@@ -1,4 +1,4 @@
-# awesome-productivity-tools
+# Awesome Productivity Tools
 A curated list of useful tools
 
 ## File transfer
